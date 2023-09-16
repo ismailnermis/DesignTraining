@@ -1,0 +1,24 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "PRS-WI-hZW"; */
+"PRS-WI-hZW.placeholder" = "Şifre";
+
+/* Class = "UILabel"; text = "Forgot Password?"; ObjectID = "Vfk-db-Smc"; */
+"Vfk-db-Smc.text" = "Şifreni mi unuttun?";
+
+/* Class = "UILabel"; text = "Sign in"; ObjectID = "kVO-RV-8g4"; */
+"kVO-RV-8g4.text" = "Giriş Yap";
+
+/* Class = "UITextField"; placeholder = "ismailnermis@gmail.com"; ObjectID = "q5s-kT-Rwn"; */
+"q5s-kT-Rwn.placeholder" = "ismailnermis@gmail.com";
+
+/* Class = "UIButton"; configuration.title = "Sign up"; ObjectID = "udw-ga-wh5"; */
+"udw-ga-wh5.configuration.title" = "Kaydol";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "udw-ga-wh5"; */
+"udw-ga-wh5.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign in"; ObjectID = "vsO-1z-m1t"; */
+"vsO-1z-m1t.configuration.title" = "Giriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vsO-1z-m1t"; */
+"vsO-1z-m1t.normalTitle" = "Button";
